@@ -2,4 +2,4 @@
 
 console.WriteLine("Hello Platzi")
 
-string stripe api key="sk_test_4eC39HqLyjWDar"
+string stripe_api_key="sk_test_4eC39HqLyjWDar"
